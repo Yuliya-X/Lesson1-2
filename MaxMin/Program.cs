@@ -19,7 +19,7 @@ Console.Write("max= ");
 Console.Write(max);
 
 Console.Write("min= ");
-Console.Write(min);
+Console.WriteLine(min);
 
 a = 2; 
 b = 10; 
@@ -39,7 +39,7 @@ Console.Write("max= ");
 Console.Write(max);
 
 Console.Write("min= ");
-Console.Write(min);
+Console.WriteLine(min);
 
 a = -9; 
 b = -3; 
@@ -59,4 +59,4 @@ Console.Write("max= ");
 Console.Write(max);
 
 Console.Write("min= ");
-Console.Write(min);
+Console.WriteLine(min);
